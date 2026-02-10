@@ -18,3 +18,5 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
 Belajar Dasar Git dengan GitHub. (Progres 61%)
 * Belajar Dasar Git
 * Belajar Git Branches
+* Belajar Studi kasus (Pengalaman Belajar, Kolaborasi dengan Tim)
+* Belajar Membuat Portfolio
