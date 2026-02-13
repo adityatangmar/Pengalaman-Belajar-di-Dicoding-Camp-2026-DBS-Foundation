@@ -33,5 +33,12 @@ Belajar Dasar AI (Progres --%)
 Belajar Dasar AI (Progres --%)
 * Belajar Pengenalan Artificial Intelligence (AI)
 * Belajar Data untuk AI
+
+---
+
+**13 Februari 2026**<br>
+Belajar Dasar AI (Progres --%)
+* Belajar Pengenalan Artificial Intelligence (AI)
+* Belajar Data untuk AI
 * Belajar Pengantar Machine Learning
 
