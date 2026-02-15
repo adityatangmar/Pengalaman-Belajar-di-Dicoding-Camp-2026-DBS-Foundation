@@ -50,3 +50,13 @@ Belajar Dasar AI (Progres --%)
 * Belajar Data untuk AI
 * Belajar Pengantar Machine Learning
 * Belajar Deep Learning untuk semua orang (tools Teachable Machine)
+
+---
+
+**15 Februari 2026**<br>
+Belajar Dasar AI (Progres 100%)
+* Belajar Pengenalan Artificial Intelligence (AI)
+* Belajar Data untuk AI
+* Belajar Pengantar Machine Learning
+* Belajar Deep Learning untuk semua orang (tools Teachable Machine)
+* Menyelesaikan Ujian Akhir dari kelas ini
