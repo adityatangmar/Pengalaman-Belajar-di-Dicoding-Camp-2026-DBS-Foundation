@@ -60,3 +60,9 @@ Belajar Dasar AI (Progres 100%)
 * Belajar Pengantar Machine Learning
 * Belajar Deep Learning untuk semua orang (tools Teachable Machine)
 * Menyelesaikan Ujian Akhir dari kelas ini
+
+---
+
+**16 Februari 2026**<br>
+[Univ] Coding Camp powered by DBS Foundation 2026 ILT Quiz - Soft Skill (Progres 35%)
+* Belajar tentang Produktif
