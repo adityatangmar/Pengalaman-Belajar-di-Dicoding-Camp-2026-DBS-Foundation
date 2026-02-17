@@ -66,3 +66,11 @@ Belajar Dasar AI (Progres 100%)
 **16 Februari 2026**<br>
 [Univ] Coding Camp powered by DBS Foundation 2026 ILT Quiz - Soft Skill (Progres 35%)
 * Belajar tentang Produktif
+
+---
+
+**17 Februari 2026**<br>
+Memulai Pemrograman dengan Python (Progres --%)
+* Belajar Berkenalan dengan Python (variabel dan assignment)
+* Belajar Berinteraksi dengan data (tipe data, dictionary, operasi list)
+* Belajar ekspresi
