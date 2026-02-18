@@ -74,3 +74,14 @@ Memulai Pemrograman dengan Python (Progres --%)
 * Belajar Berkenalan dengan Python (variabel dan assignment)
 * Belajar Berinteraksi dengan data (tipe data, dictionary, operasi list)
 * Belajar ekspresi
+
+---
+
+**18 Februari 2026**<br>
+Memulai Pemrograman dengan Python (Progres --%)
+* Belajar Berkenalan dengan Python (variabel dan assignment)
+* Belajar Berinteraksi dengan data (tipe data, dictionary, operasi list)
+* Belajar ekspresi
+* Belajar Aksi Sekuensial
+* Belajar Control Flow(Percabangan dan Perulangan)
+
