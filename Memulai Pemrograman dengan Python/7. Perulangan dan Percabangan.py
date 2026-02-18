@@ -8,5 +8,6 @@ Anda bisa menggunakan loop dan if atau list comprehension untuk memudahkan.
 """
 
 # TODO: Silakan buat kode Anda di bawah ini.
-evenNumber = [n for n in range(0,500,2)]
+evenNumber = [n for n in range(0,501,2)]
+
 print(evenNumber)
