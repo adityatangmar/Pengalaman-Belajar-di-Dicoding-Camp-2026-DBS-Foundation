@@ -129,3 +129,21 @@ Memulai Pemrograman dengan Python (Progres 98%)
 * Belajar style Guide pada Python
 * Belajar Unit Testing
 * Belajar Library Populer pada Python (Text Processing, Matematika, Parser, Pengolahan Data, File Management, Web Scraping, Machine Learning, Web Development)
+
+---
+
+**22 Februari 2026**<br>
+Memulai Pemrograman dengan Python (Progres 98%)
+* Belajar Berkenalan dengan Python (variabel dan assignment)
+* Belajar Berinteraksi dengan data (tipe data, dictionary, operasi list)
+* Belajar ekspresi
+* Belajar Aksi Sekuensial
+* Belajar Control Flow (Percabangan dan Perulangan)
+* Belajar Array dan Pemrosesannya
+* Belajar Matriks
+* Belajar SubProgram (Fungsi dan Prosedur)
+* Belajar Object Oriented Programming (class, atribut, method, object, inheritaance)
+* Belajar style Guide pada Python
+* Belajar Unit Testing
+* Belajar Library Populer pada Python (Text Processing, Matematika, Parser, Pengolahan Data, File Management, Web Scraping, Machine Learning, Web Development)
+* Menyelesaikan Ujian Akhir dari kelas ini
