@@ -133,7 +133,7 @@ Memulai Pemrograman dengan Python (Progres 98%)
 ---
 
 **22 Februari 2026**<br>
-Memulai Pemrograman dengan Python (Progres 98%)
+Memulai Pemrograman dengan Python (Progres 100%)
 * Belajar Berkenalan dengan Python (variabel dan assignment)
 * Belajar Berinteraksi dengan data (tipe data, dictionary, operasi list)
 * Belajar ekspresi
@@ -147,3 +147,15 @@ Memulai Pemrograman dengan Python (Progres 98%)
 * Belajar Unit Testing
 * Belajar Library Populer pada Python (Text Processing, Matematika, Parser, Pengolahan Data, File Management, Web Scraping, Machine Learning, Web Development)
 * Menyelesaikan Ujian Akhir dari kelas ini
+
+---
+
+**23 Februari 2026**<br>
+[Univ] Coding Camp powered by DBS Foundation 2026 - Kuis ILT AI Engineer (Progres 33%)
+* Belajar Understanding the Basic of Python Programing
+
+---
+
+**24 Februari 2026**<br>
+Belajar Machine Learning untuk Pemula (Progres --%)
+* Belajar Pengenalan Machine Learning 
