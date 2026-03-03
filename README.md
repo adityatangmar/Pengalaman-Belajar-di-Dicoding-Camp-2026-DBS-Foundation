@@ -199,3 +199,32 @@ Belajar Machine Learning untuk Pemula (Progres 98%)
 * Belajar Feature Engineering (Feature Selection, Encoding, Binning, Scaling Fitur, Outlier, Oversampling dan UnderSampling)
 * Belajar Overfitting dan UnderFitting
 * Belajar Hyperparameter Tuning (Grid Search, Random Search, Bayesian Optimization)
+
+---
+
+**1 Maret 2026**<br>
+Belajar Machine Learning untuk Pemula (Progres 100%)
+* Belajar Pengenalan Machine Learning
+* Belajar Machine Learning Workflow (Data Collecting, Data Loading, Data Cleaning dan Transformation, Data Splitting, Modeling, Deploy dan Monitoring)
+* Belajar Supervised Learning - Klasifikasi (SVM, Decision Tree, Random Forest, KNN, Naive Bayes, Evaluasi Model Klasifikasi) 
+* Belajar Supervised Learning - Regresi (Linear, Polinomial, SVR, Decision Tree Regression, Neural Network Regression, Evaluasi Model Regression)
+* Belajar Unsupervised Learning - Clustering (K-Means, DBSCAN, ELbow Method, Evaluasi Model Clustering)
+* Belajar Feature Engineering (Feature Selection, Encoding, Binning, Scaling Fitur, Outlier, Oversampling dan UnderSampling)
+* Belajar Overfitting dan UnderFitting
+* Belajar Hyperparameter Tuning (Grid Search, Random Search, Bayesian Optimization)
+* Membuat proyek akhir (clustering dan klasifikasi)
+* Menyelesaikan Ujian Akhir dari kelas ini
+
+---
+
+**2 Maret 2026**<br>
+[Univ] Coding Camp powered by DBS Foundation 2026 ILT Quiz - Soft Skill (Progres 52%)
+* Belajar Personal Productivity: How to Boost Your Output
+* Belajar Growth Mindset and Personal Development: Establish Your All-Star Potentials
+
+---
+
+**3 Maret 2026**<br>
+Belajar Fundamental Deep Learning (Progres 52%)
+* Belajar Pengenalan Deep Learning (dasar2 Neural Network, arsitektur Deep Learning, pengenalan CNN dan RNN)
+
