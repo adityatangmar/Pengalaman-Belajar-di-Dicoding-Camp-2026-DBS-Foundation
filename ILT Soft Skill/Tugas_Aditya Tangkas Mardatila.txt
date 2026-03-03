@@ -1,0 +1,50 @@
+Nama : Aditya Tangkas Mardatila
+Assignment: ILT SS 2
+
+Where i am now?
+Identifikasi kompetensi atau kapabilitas yang dimiliki
+Saya adalah seorang mahasiswa Teknik Informatika semester 6. Dari sisi kompetensi, saya memiliki kemampuan akademik yang cukup kuat sesuai Program studi saya, yang telah saya pelajari dari dasar ilmu komputer seperti struktur data, algoritma, basis data, serta dasar-dasar kecerdasan buatan dan machine learning. Saya memiliki kemampuan pemrograman menggunakan bahasa Python dan C++ , serta memahami konsep logika pemrograman dan problem solving. Saya juga mampu Menyusun laporan penelitian yang baik sesuai dengan pedoman penulisan ilmiah resmi fakultas.
+
+2. Identifikasi kelebihan dan kelemahan yang dimiliki
+Dari sisi Kelebihan, saya adalah seorang yang bertanggung jawab, disiplin terhadap Waktu dalam menyelesaikan tugas yang diberikan. Saya juga seorang yang tidak takut terhadap tantangan yang baru bagi saya dan memiliki kemampuam memanajemen Waktu yang baik ketika menghadapi beberapa tugas. Memiliki rasa ingin tahu yang tinggi terhadap perkembangan AI dan teknologi.
+
+Dari sisi Kelemahan, pengalaman saya di dunia kerja masih belum ada terutama di bidang AI dan Teknologi yang saya minati sehingga saya masih belum memiliki gambaran terhadap dunia kerja tersebut, Kemampuan public speaking saya juga masih perlu di tingkatkan dan perlu memperbanyak pengalaman dalam public speaking, jaringan professional saya juga masih sempit dan perlu diperluas untuk perkembangan karier saya.
+
+Where do i want to go?
+3. Menentukan tujuan jangka pendek, jangka menengah, dan jangka panjang
+Jangka Pendek (1 tahun)
+Dapat lulus kuliah tepat waktu
+Memperdalam pengetahuan tentang AI, Machine Learning dan deep learning
+Menguasai Bahasa python untuk AI
+Mendapatkan magang di bidang AI
+Membuat proyek AI kecil-kecilan
+
+Jangka Menengah (3 tahun)
+Mendapatkan pekerjaan di bidang AI
+Memiliki portofolio yang bagus dan professional
+berkontribusi pada proyek-proyek AI 
+Mendapatkan Sertifikat Profesional
+
+Jangka Panjang (5 Tahun ke depan)
+Financial Freedom
+Berkontribusi pada inovasi produk berbasis AI. 
+Memiliki Spesialisasi terhadap computer vision (karena tertarik pada bidang itu)
+Memiliki personal branding di bidang AI
+
+4. Menganalisis kebutuhan kompetensi yang diperlukan untuk mencapai tujuan
+Dari bidang Teknis saya perlu mengembangkan pengetahuan tentang AI, Machine Learning dan Deep Learning, mempelajari tools-tools professional seperti GitHub dalam berkolaborasi secara tim dan lainnya, serta mendapatkan sertifikasi yang berhubungan dengan bidang AI.
+
+Dari bidang Non-Teknis saya perlu mengembangkan social skill yang tinggi, mampu berpikir secara kritis, mampu menyelesaikan problem solving yang kompleks, juga mampu berkolaborasi secara tim.
+
+Mindset dan Personal Development yang saya butuhkan konsistensi jangka Panjang, tidak takut gagal dalam mencoba sesuatu, 
+adaptif terhadap perkembangan AI dan Teknologi
+
+5. Menetapkan timeline dan prioritas dalam pengembangan diri
+Semester 6-8 (1 Tahun)
+Prioritas utama adalah Lulus Kuliah dan memperdalam Fundamental AI. Saya mengikuti program dicoding camp hingga lulus dan mendaptkan sertifikat.
+
+Fresh Graduate (3 Tahun)
+Prioritas utama adalah Pengalaman Kerja dan Membangun Portofolio. Mencari magang untuk pengalaman dan Belajar deployment proyek proyek sederhana
+
+Profesional (5 Tahun ke depan)
+Prioritas utama adalah Profesionalisasi dan Spesialisasi. Bekerja sebagai AI Engineer dan mendalami spesialisasi
