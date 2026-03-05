@@ -234,3 +234,11 @@ Belajar Fundamental Deep Learning (Progres 15%)
 Belajar Fundamental Deep Learning (Progres 25%)
 * Belajar Pengenalan Deep Learning (dasar2 Neural Network, arsitektur Deep Learning, pengenalan CNN dan RNN)
 * Belajar Neural Network dengan Tensorflow dan Keras
+
+---
+
+**5 Maret 2026**<br>
+Belajar Fundamental Deep Learning (Progres 37%)
+* Belajar Pengenalan Deep Learning (dasar2 Neural Network, arsitektur Deep Learning, pengenalan CNN dan RNN)
+* Belajar Neural Network dengan Tensorflow dan Keras
+* Belajar Natural Language Processing (Text Preprocessing, Ekstraksi Fitur, Algoritma RNN)
